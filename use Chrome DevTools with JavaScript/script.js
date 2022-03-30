@@ -9,4 +9,4 @@ console.log(paragraphElement);
 
 // Part 3
 const paragraphElement = document.getElementsByClassName("paragraph");
-console.log(paragraphElements);
+console.log(paragraphElement);
